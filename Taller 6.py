@@ -1,6 +1,6 @@
 #TALLER 6 PYTHON
-# AUTOR (A) : XXXXXX
-# FECHA:
+# AUTOR (A) : Luis Fernando González 
+# FECHA: 12 de agosto de 2022
 from datetime import date
 hoy=date.today()
 print ("Hoy es el dia: ", hoy)
